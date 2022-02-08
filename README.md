@@ -1,6 +1,6 @@
 # Checkers
 
-A simple Checkers game made using Java and Eclipse.
+A Checkers game made using Java and Eclipse.
 
 ## Background
 
