@@ -22,9 +22,6 @@ In our project, the thing that works well would have to be the forced moves for 
 ## Program weaknesses
 Our program had a few weaknesses and some of them are very unlikely to occur in an actual play session. One weakness of our code is that the arrows still show up for forced moves even in american mode, even though there are no forced moves. Although this weakness could also be seen as a strength as it reminds you of the moves that you have to move and eat the other player(which is helpful for people who do not see the forced moves). Another weakness that our code has (that can also be seen as a strength) is the fact that whenever a player captures the opponent's piece, if another piece can be captured, that piece will only show the one going to the left.
 
-## Trials and tribulations
-One major trial I had was losing my Fidget Spinner. This move was demoralizing and made me sad ;(. Losing my Fidget Spinner made me lose all hope to work on the project. Another trial that we had was working the GUI, after Tarrence finished the GUI while I was gone, we had issues with finding the row and column that the pieces were on, forcing me to redo the GUI to be able to find the row and column and use this information to code for moving the pieces. The last issue that we had with our code was implementing the king into the game. The king took many days to implement and we had to add many long if statements to make the king work.
-
 ## Contributing
 
 Please contact me on LinkedIn to collaborate: https://www.linkedin.com/in/albin-shrestha
